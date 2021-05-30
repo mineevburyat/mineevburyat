@@ -1,39 +1,57 @@
-### Привет! 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<br/>
-<a href="https://vk.com/id65419945">
-  <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
-</a>
-<a href="https://t.me/your_profile">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+
+  Привет! Hello! I'm Alexander
+  ================
+ <div style="display: flex">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  <div>
+    <a href="https://vk.com/id65419945">
+      <img align="right" src="https://img.icons8.com/color/48/000000/vk-com.png" alt="vk">
+    </a>
+    <a href="https://t.me/mineevburyat">
+      <img align="right" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="telegramm">
+    </a>
+  </div>
+</div>
 
 
-Меня зовут Александр, проживаю в городе Улан-Удэ республики Бурятия. Считаю себя опытным ИТ специалистом: начинал с коммуникаций, отлично знаю стек TCP/IP, сетевую безопасность, могу настроить коммутаторы и маршрутизаторы любых вендоров. В совершенстве знаю основы операционных систем: Windows, Linux, Unix (FreeBSD, QNX). Владею технологиями виртуализации: qemu-KVM, VMVare. А так же простыми средствами автоматизации: bash, python.
+В настоящее время учусь на fullstack, ищу задания для расширения своего портфолио. 
+Повышаю свою клалификацию на таких платформах как: Geekbrains, HTMLAcademy, Slurm, hexlet, Stepik, Cousera. 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/kalashnikov-ulmic/kalashnikov-ulmic/main/%D0%A3%D1%87%D1%83%D1%81%D1%8C%20%D0%BD%D0%B0%20Slurm.png?raw=true" width="400" height="280" />
-
-Сейчас учусь на fullstack программиста, что бы занятся фрилансом. Повышаю свою клалификацию на таких платформах как: Geekbrains, HTMLAcademy, Slёрм, hexlet, stepik. 
-
  
-🔭 **Languages and Tools:**  
+🔭 **Языки программирования и технологии (Languages and Tools):**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+![python](https://img.icons8.com/color/48/000000/python.png)
+![js](https://img.icons8.com/color/48/000000/javascript.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![SASS](https://img.icons8.com/color/48/000000/sass.png)
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+![WordPress](https://img.icons8.com/color/48/000000/wordpress.png)
+![Joomla](https://img.icons8.com/color/48/000000/joomla.png)
 
-🚧 **Мои задачи на ближайшее время:**
+🚧 **Мои задачи на ближайшее время (ToDo list):**
 <!-- TODO-IST:START -->
-* [x] Прокачать свой профиль на Github
-* [ ] Пройти курс по Git на Slurm
-* [ ] Создать свой первый проект на Github       
+* [x] Прокачать (learn) python (Cousera, Stepik)
+* [x] Прокачать (learn) HTML5+CSS3 (HTMLAcademy, Hexlet, GeekBrains)
+* [x] Прокачать (learn) css preprocessors sach as SASS (GeekbBains, HTMLAcademy)  
+* [x] Прокачать (learn) css framework sach as Bootstrap (GeekbBains)
+* [ ] Прокачать (learn) javascript (GeekBrains, HTMLAcademy)
+* [ ] Прокачать (learn) PHP (GeekBrains, HTMLAcademy)
+* [x] Прокачать (learn) DataBase such as the MySQL, PostgreSQL (Stepic, GeekBrains)
+* [x] Прокачать (learn) MVC framework such as the Django (Stepic)
+* [ ] Прокачать (learn) CMS such as WordPress, Joomla (GeekBrains)
+
+  
 <!-- TODO-IST:END -->
 
 👯 **Мои проекты:**
-* Система визуального отображения суточного плана для пассажиров [FIDS](https://github.com/mineevburyat/djangoFIDS)
-* 
+* Система визуального отображения суточного плана для пассажиров [FIDS - flight information display system](https://github.com/mineevburyat/djangoFIDS)
+* Макет интернет-магазина согласно дизайна ([Online store layout according to design](https://github.com/mineevburyat/geekbrains2)). Сам дизайн в фигме ([figma design](https://www.figma.com/file/cnLkMxpfJezBJr4ifndG5s/shop-(Copy)?node-id=0%3A1))
+* Макет персональной страницы ([personal page](https://github.com/mineevburyat/geekbrines)). Дизайн в [figma](https://www.figma.com/file/AOKabCJEdEqr9ZZEaJ0IMS/html%2Fcss-(Copy))
+
+Меня зовут Александр, проживаю в городе Улан-Удэ республики Бурятия (My name is Alexander, I live in the Russia of Ulan-Ude city). Считаю себя опытным ИТ специалистом (I think that I'm an experienced IT specialist): начинал с коммуникаций (beginning from communications), отлично знаю стек TCP/IP, сетевую безопасность (network security), могу настроить коммутаторы и маршрутизаторы любых вендоров (configurations any device by CLI and GUI of any vendors). В совершенстве знаю основы операционных систем: Windows, Linux, Unix (FreeBSD, QNX). Владею технологиями виртуализации: qemu-KVM, VMVare. А так же простыми средствами автоматизации: bash, perl, python.
+
 <!--
 **mineevburyat/mineevburyat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
