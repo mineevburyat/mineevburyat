@@ -14,7 +14,7 @@
 </div>
 
 
-В настоящее время учусь на fullstack, ищу задания для расширения своего портфолио. 
+В настоящее время учусь на fullstack разработчика, ищу задания для расширения своего портфолио. 
 Повышаю свою клалификацию на таких платформах как: Geekbrains, HTMLAcademy, Slurm, hexlet, Stepik, Cousera. 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/kalashnikov-ulmic/kalashnikov-ulmic/main/%D0%A3%D1%87%D1%83%D1%81%D1%8C%20%D0%BD%D0%B0%20Slurm.png?raw=true" width="400" height="280" />
@@ -34,8 +34,8 @@
 <!-- TODO-IST:START -->
 * [x] Прокачать (learn) python (Cousera, Stepik)
 * [x] Прокачать (learn) HTML5+CSS3 (HTMLAcademy, Hexlet, GeekBrains)
-* [x] Прокачать (learn) css preprocessors sach as SASS (GeekbBains, HTMLAcademy)  
-* [x] Прокачать (learn) css framework sach as Bootstrap (GeekbBains)
+* [x] Прокачать (learn) css preprocessors such as SASS (GeekbBains, HTMLAcademy)  
+* [x] Прокачать (learn) css framework such as Bootstrap (GeekbBains)
 * [ ] Прокачать (learn) javascript (GeekBrains, HTMLAcademy)
 * [ ] Прокачать (learn) PHP (GeekBrains, HTMLAcademy)
 * [x] Прокачать (learn) DataBase such as the MySQL, PostgreSQL (Stepic, GeekBrains)
