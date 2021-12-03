@@ -15,9 +15,9 @@
 
 
 В настоящее время учусь на fullstack разработчика, ищу задания для расширения своего портфолио. 
-Повышаю свою клалификацию на таких платформах как: Geekbrains, HTMLAcademy, Slurm, hexlet, Stepik, Cousera. 
+Повышаю свою клалификацию на таких платформах как: <a href="https://gb.ru/go/v2jW8H">Geekbrains</a>, HTMLAcademy, Slurm, hexlet, Stepik, Cousera. 
 
-<img align="right" alt="GIF" src="Учусь на gb.jpg" width="400" height="280" />
+<a href="https://gb.ru/go/v2jW8H"><img align="right" alt="GIF" src="Учусь на gb.jpg" width="400" height="280" /></a>
  
 🔭 **Языки программирования и технологии (Languages and Tools):**  
 
